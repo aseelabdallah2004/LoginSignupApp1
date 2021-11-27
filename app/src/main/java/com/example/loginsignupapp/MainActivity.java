@@ -22,7 +22,7 @@ public void login(View view)
 {
     String username=etUserName.getText().toString();
     String password = etPasword.getText().toString();
-    if(username.trim().isEmpty()|| password().trim().isEmpty())
+    if(username.trim().isEmpty()|| gddfgdfgdfgdfgdfg().trim().isEmpty())
     {
         Toast.makeText(this, "Username or password is missing", Toast.LENGTH_SHORT).show();
         return;
